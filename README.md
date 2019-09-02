@@ -1,6 +1,8 @@
 # game-dev-mod1
 2D game for Game Dev course. Written in Python, using the Pygame library.
 
+To play the game download you must have the game exe and the assets folder downloaded.
+
 Objective: Kill and avoid enemies, keep from falling, find boss area and inject twice during boss "fight".  
 Current status: Game completed for course. Ongoing revisions.
 
