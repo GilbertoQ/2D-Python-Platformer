@@ -3,7 +3,7 @@
 
 To play the game download you must have the game exe and the assets folder downloaded.
 
-[Demo](./demo.gif)
+![Demo](./demo.gif)
 
 Objective: Kill and avoid enemies, keep from falling, find boss area and inject twice during boss "fight".  
 Current status: Game completed for course. Ongoing revisions.
